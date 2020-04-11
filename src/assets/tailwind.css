@@ -1,0 +1,5 @@
+/* Allow the use of each area of tailwind to be compiled into main.css */
+
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
