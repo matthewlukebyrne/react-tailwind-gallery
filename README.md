@@ -3,3 +3,5 @@
 <p> A small project built with React and a framework called Tailwind, along the like of Bootstrap4 or Google Materilize
 but more room for configurations. </p>
 
+
+![React-Gallery](react-gallery.gif)
